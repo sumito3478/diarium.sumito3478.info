@@ -8,22 +8,22 @@ import tinkerer.paths
 # **************************************************************
 
 # Change this to the name of your blog
-project = 'My blog'
+project = 'Diary by sumito3478'
 
 # Change this to the tagline of your blog
-tagline = 'Add intelligent tagline here'
+tagline = 'sumito3478の日記(diarium)'
 
 # Change this to the description of your blog
-description = 'This is an awesome blog'
+description = 'sumito3478の日記(diarium)'
 
 # Change this to your name
-author = 'Winston Smith'
+author = 'sumito3478'
 
 # Change this to your copyright string
-copyright = '1984, ' + author
+copyright = '2014, ' + author
 
 # Change this to your blog root URL (required for RSS feed)
-website = 'http://127.0.0.1/blog/html/'
+website = 'http://diarium.sumito3478.info/'
 
 # **************************************************************
 # More tweaks you can do
@@ -46,13 +46,15 @@ html_theme_options = { }
 rss_service = None
 
 # Generate full posts for RSS feed even when using "read more"
-rss_generate_full_posts = False
+rss_generate_full_posts = True
 
 # Number of blog posts per page
-posts_per_page = 10
+posts_per_page = 100
 
 # Character use to replace non-alphanumeric characters in slug
 slug_word_separator = '_'
+
+language = "ja"
 
 # **************************************************************
 # Edit lines below to further customize Sphinx build
