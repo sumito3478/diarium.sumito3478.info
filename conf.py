@@ -11,10 +11,10 @@ import tinkerer.paths
 project = 'Diary by sumito3478'
 
 # Change this to the tagline of your blog
-tagline = 'sumito3478の日記(diarium)'
+tagline = 'sumito3478の日記'
 
 # Change this to the description of your blog
-description = 'sumito3478の日記(diarium)'
+description = 'sumito3478の日記'
 
 # Change this to your name
 author = 'sumito3478'
