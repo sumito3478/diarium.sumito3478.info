@@ -8,7 +8,7 @@ import tinkerer.paths
 # **************************************************************
 
 # Change this to the name of your blog
-project = 'Diary by sumito3478'
+project = 'sumito3478の日記'
 
 # Change this to the tagline of your blog
 tagline = 'sumito3478の日記'
